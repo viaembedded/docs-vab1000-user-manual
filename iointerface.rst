@@ -547,8 +547,8 @@ LVDS Connector
 ^^^^^^^^^^^^^^
 
 The mainboard has one LVDS connector on the bottom side of the board. The
-LVDS connector can connect the panel’s LVDS cable to support the dual-
-channel 18-bit/24-bit display. The LVDS connector is labeled as LVDS1. The
+LVDS connector can connect the panel’s LVDS cable to support the dual-channel
+18-bit/24-bit display. The LVDS connector is labeled as LVDS1. The
 pinout of the connector is shown below.
 
 .. _figure-lvds:

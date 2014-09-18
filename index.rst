@@ -126,6 +126,9 @@ Table of Contents
    iointerface.rst
    jumpers.rst
    installation.rst
+   software.rst
+   appendix_a.rst
+   appendix_b.rst
 
 
 Indices and tables
